@@ -6,10 +6,9 @@
 }
 @font-face
 {
-    font-family: friends;
+    font-family: Friends;
     src: url(police/friends/friends.ttf);
-    font-weight: normal;
-  	font-style: normal;
+
 }
 @font-face
 { 
@@ -196,7 +195,7 @@ a:hover/* élément dynamique qui réagit à une action. ici, au survol de l'él
     }
     body
     {
-    	font-family: friends,sans-serif;
+    	font-family: Lora,Friends,sans-serif;
     }
      
 	header
