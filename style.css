@@ -13,7 +13,7 @@
 @font-face
 { 
 	font-family:Lora;
-	src : url(police/lora/lora-VariableFont_wght.ttf);
+	src : url(police/lora/lora-fariablefont_wght.ttf);
 }
 /* mise en page mise par défaut*/
 *
@@ -195,7 +195,7 @@ a:hover/* élément dynamique qui réagit à une action. ici, au survol de l'él
     }
     body
     {
-		font-family: Ancizar,friends, sans-serif;/* défini la police du texte*/
+		font-family: Lora,Ancizar,friends, sans-serif;/* défini la police du texte*/
     }
      
 	header
