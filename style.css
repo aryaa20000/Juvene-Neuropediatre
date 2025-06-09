@@ -2,7 +2,7 @@
 @font-face
 { 
 	font-family:ancizar;
-	src : url(police/ancizar/ancizarSerif-Italic-VariableFont_wght.ttf);
+	src : url(police/ancizar/ancizarserif-italic-variablefont_wght.ttf);
 }
 @font-face
 {
@@ -12,7 +12,7 @@
 @font-face
 { 
 	font-family:lora;
-	src : url(police/lora/lora-VariableFont_wght.ttf);
+	src : url(police/lora/lora-Italic-VariableFont_wght.ttf);
 }
 /* mise en page mise par défaut*/
 *
@@ -106,8 +106,8 @@
 body
 {
 
-	font-family: ancizar,lora,friend, sans-serif;/* défini la police du texte*/
-	color: black;
+	font-family: ancizar,lora,friends, sans-serif;/* défini la police du texte*/
+	color: red;
 }
 html, body 
 {
