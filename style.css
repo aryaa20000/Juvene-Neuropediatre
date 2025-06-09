@@ -195,7 +195,7 @@ a:hover/* élément dynamique qui réagit à une action. ici, au survol de l'él
     }
     body
     {
-    	font-family: Lora,Friends,sans-serif;
+		font-family: Ancizar,friends, sans-serif;/* défini la police du texte*/
     }
      
 	header
