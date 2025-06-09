@@ -1,18 +1,20 @@
 /*police téléchargée*/
 @font-face
 { 
-	font-family:ancizar;
-	src : url(police/ancizar/ancizarserif-italic-variablefont_wght.ttf);
+	font-family:Ancizar;
+	src : url(police/ancizar/ancizarSerif-Italic-VariableFont_wght.ttf);
 }
 @font-face
 {
     font-family: friends;
-    src: url(police/friends/gabrwffr.ttf);
+    src: url(police/friends/friends.ttf);
+    font-weight: normal;
+  	font-style: normal;
 }
 @font-face
 { 
-	font-family:lora;
-	src : url(police/lora/lora-Italic-VariableFont_wght.ttf);
+	font-family:Lora;
+	src : url(police/lora/lora-VariableFont_wght.ttf);
 }
 /* mise en page mise par défaut*/
 *
@@ -106,8 +108,8 @@
 body
 {
 
-	font-family: ancizar,lora,friends, sans-serif;/* défini la police du texte*/
-	color: red;
+	font-family: Ancizar,Lora,Friends, sans-serif;/* défini la police du texte*/
+	color: black;
 }
 html, body 
 {
